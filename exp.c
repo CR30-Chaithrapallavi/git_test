@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//main
 void f(char **p)
 {
 	char *t;
